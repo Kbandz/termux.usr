@@ -1,0 +1,45 @@
+
+Start-Date: 2019-03-13  12:19:24
+Commandline: apt install clang
+Install: clang:aarch64 (7.0.1-1), libffi:aarch64 (3.2.1-2, automatic), libllvm:aarch64 (7.0.1-1, automatic), binutils:aarch64 (2.32-1, automatic), ndk-sysroot:aarch64 (19b, automatic)
+End-Date: 2019-03-13  12:19:37
+
+Start-Date: 2019-03-13  12:38:01
+Commandline: apt install vim
+Install: diffutils:aarch64 (3.7, automatic), vim-runtime:aarch64 (8.1.0950-1, automatic), vim:aarch64 (8.1.0950-1)
+End-Date: 2019-03-13  12:38:05
+
+Start-Date: 2019-03-13  12:45:17
+Commandline: apt full-upgrade
+Upgrade: libcurl:aarch64 (7.63.0, 7.64.0), libc++:aarch64 (18, 19b), libbz2:aarch64 (1.0.6-1, 1.0.6-2), openssl:aarch64 (1.1.1a, 1.1.1b-2), apt:aarch64 (1.4.8-9, 1.4.9-1), dpkg:aarch64 (1.19.2, 1.19.4), readline:aarch64 (7.0.5-2, 8.0), gpgv:aarch64 (2.2.12, 2.2.13-1), ncurses:aarch64 (6.1.20181117, 6.1.20181117-1), bash:aarch64 (4.4.23-3, 5.0.2), busybox:aarch64 (1.29.3-1, 1.30.1-1), ca-certificates:aarch64 (20181205, 20190124), libgpg-error:aarch64 (1.34, 1.35)
+End-Date: 2019-03-13  12:45:29
+
+Start-Date: 2019-03-13  12:57:09
+Commandline: apt install git
+Install: pcre2:aarch64 (10.32, automatic), git:aarch64 (2.21.0), less:aarch64 (530-2, automatic)
+End-Date: 2019-03-13  12:57:11
+
+Start-Date: 2019-03-13  13:38:11
+Commandline: apt install proot
+Install: libtalloc:aarch64 (2.1.14, automatic), proot:aarch64 (5.1.107-19)
+End-Date: 2019-03-13  13:38:12
+
+Start-Date: 2019-03-13  14:23:47
+Commandline: apt install curl
+Install: curl:aarch64 (7.64.0)
+End-Date: 2019-03-13  14:23:48
+
+Start-Date: 2019-03-13  14:43:42
+Commandline: apt install ctags
+Install: ctags:aarch64 (0.0.20180830)
+End-Date: 2019-03-13  14:43:42
+
+Start-Date: 2019-03-13  19:32:59
+Commandline: apt install bc
+Install: bc:aarch64 (1.07.1-1), m4:aarch64 (1.4.18, automatic), flex:aarch64 (2.6.4, automatic)
+End-Date: 2019-03-13  19:33:01
+
+Start-Date: 2019-03-13  19:55:37
+Commandline: apt install openssh
+Install: libedit:aarch64 (20181209-3.1-0, automatic), termux-auth:aarch64 (1.1, automatic), openssh:aarch64 (7.9p1-4), libdb:aarch64 (6.2.32, automatic), krb5:aarch64 (1.16.2-1, automatic), libutil:aarch64 (0.4, automatic), ldns:aarch64 (1.7.0-5, automatic), libandroid-glob:aarch64 (0.4, automatic)
+End-Date: 2019-03-13  19:55:42

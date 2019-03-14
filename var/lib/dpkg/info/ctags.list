@@ -1,0 +1,16 @@
+/.
+/data
+/data/data
+/data/data/com.termux
+/data/data/com.termux/files
+/data/data/com.termux/files/usr
+/data/data/com.termux/files/usr/share
+/data/data/com.termux/files/usr/share/man
+/data/data/com.termux/files/usr/share/man/man1
+/data/data/com.termux/files/usr/share/man/man1/ctags.1
+/data/data/com.termux/files/usr/share/man/man7
+/data/data/com.termux/files/usr/share/man/man7/ctags-optlib.7
+/data/data/com.termux/files/usr/share/man/man7/ctags-incompatibilities.7
+/data/data/com.termux/files/usr/bin
+/data/data/com.termux/files/usr/bin/ctags
+/data/data/com.termux/files/usr/bin/readtags

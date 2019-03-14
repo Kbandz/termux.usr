@@ -1,0 +1,10 @@
+/.
+/data
+/data/data
+/data/data/com.termux
+/data/data/com.termux/files
+/data/data/com.termux/files/usr
+/data/data/com.termux/files/usr/lib
+/data/data/com.termux/files/usr/lib/libdb-6.2.so
+/data/data/com.termux/files/usr/lib/libdb-6.so
+/data/data/com.termux/files/usr/lib/libdb.so

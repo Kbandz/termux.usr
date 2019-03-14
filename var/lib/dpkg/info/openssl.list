@@ -1,0 +1,14 @@
+/.
+/data
+/data/data
+/data/data/com.termux
+/data/data/com.termux/files
+/data/data/com.termux/files/usr
+/data/data/com.termux/files/usr/lib
+/data/data/com.termux/files/usr/lib/libcrypto.so.1.1
+/data/data/com.termux/files/usr/lib/libssl.so.1.1
+/data/data/com.termux/files/usr/etc
+/data/data/com.termux/files/usr/etc/tls
+/data/data/com.termux/files/usr/etc/tls/openssl.cnf
+/data/data/com.termux/files/usr/lib/libssl.so
+/data/data/com.termux/files/usr/lib/libcrypto.so

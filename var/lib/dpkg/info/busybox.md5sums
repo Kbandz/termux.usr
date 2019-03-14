@@ -1,0 +1,5 @@
+3ae7a46a9e799467a5f46d48baaa496b  data/data/com.termux/files/usr/share/man/man1/busybox.1.gz
+03cf3cbb3c5523f205822ac0a0c6de2e  data/data/com.termux/files/usr/bin/busybox
+bb628db20f9e774bf2da48e35a55fef2  data/data/com.termux/files/usr/var/spool/cron/crontabs/README.termux
+f207d4dc3ae725b7677d101aab2a33c5  data/data/com.termux/files/usr/var/service/telnetd/run
+7bfcfe3f58931cfcac5e78ef68fe7091  data/data/com.termux/files/usr/var/service/ftpd/run
